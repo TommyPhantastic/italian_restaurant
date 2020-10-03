@@ -79,3 +79,7 @@ nav li a {
 nav li a:hover {
   background-color: #111;
 }
+
+#review {
+	border: 4px solid black;
+}
